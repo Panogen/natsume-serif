@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xy_yamadblleft" format="2">
+  <advance width="363"/>
+  <unicode hex="E09D"/>
+  <outline>
+    <contour>
+      <point x="166.092" y="294.359" type="line"/>
+      <point x="238.343" y="441.538" type="line"/>
+      <point x="265.18" y="441.538" type="line"/>
+      <point x="192.93" y="294.359" type="line"/>
+      <point x="265.18" y="147.18" type="line"/>
+      <point x="238.343" y="147.18" type="line"/>
+    </contour>
+    <contour>
+      <point x="114.51" y="294.359" type="line"/>
+      <point x="186.761" y="441.538" type="line"/>
+      <point x="213.598" y="441.538" type="line"/>
+      <point x="141.348" y="294.359" type="line"/>
+      <point x="213.598" y="147.18" type="line"/>
+      <point x="186.761" y="147.18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>147</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>115</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

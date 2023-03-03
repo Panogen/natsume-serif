@@ -1,0 +1,37 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\H \A \B \C \D \E \F \G \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \a \b \c \d 
+	\e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \zero \one \two \three \four 
+	\five \six \seven \eight \nine \period \comma \colon \semicolon \exclam \question 
+	\quotesingle \quotedbl \quoteleft \quoteright \quotedblleft \quotedblright 
+	\hyphen \endash \emdash \ellipsis \at \numbersign \percent \ampersand 
+	\asciicircum \asterisk \less \asciitilde \greater \equal \plus \dollar 
+	\parenleft \parenright \bracketleft \bracketright \braceleft \braceright \bar 
+	\slash \backslash \space \underscore \grave \uni00A0 \placeholder \a.init 
+	\a.fina \b.init \b.medi \b.fina \c.init \c.medi \c.fina \d.init \d.medi \d.fina 
+	\e.init \e.medi \e.fina \f.init \f.medi \f.fina \g.init \g.medi \g.fina \h.init 
+	\h.medi \h.fina \i.init \i.medi \i.fina \j.fina \k.init \k.medi \k.fina \l.init 
+	\l.medi \l.fina \m.init \m.medi \m.fina \n.fina \o.init \o.medi \o.fina \p.fina 
+	\q.fina \r.init \r.medi \r.fina \s.init \s.medi \s.fina \t.init \t.medi \t.fina 
+	\u.fina \v.fina \w.fina \x.init \x.medi \x.fina \y.init \y.medi \y.fina \z.fina 
+	\xy_kashida \x.long \z.long \xy_fullstop \xy_comma \xy_commacn \xy_exclamdown 
+	\xy_questiondown \xy_colon \xy_semicolon \xy_period \xy_ellipsis \xy_apos 
+	\xy_kome \xy_lentleft \xy_lentright \xy_lentwhiteleft \xy_lentwhiteright 
+	\xy_kagileft \xy_kagiright \xy_kagiwhiteleft \xy_kagiwhiteright 
+	\xy_kikkoleft \xy_kikkoright \xy_kikkowhiteleft \xy_kikkowhiteright 
+	\xy_yamaleft \xy_yamaright \xy_yamadblleft \xy_yamadblright \xy_wakai 
+	\xy_wasou \ampersand.latn \xy_zero \xy_one \xy_two \xy_three \xy_four \xy_five 
+	\xy_six \xy_seven \xy_eight \xy_nine \period.override \comma.override 
+	\exclam.override \question.override \colon.override \semicolon.override 
+	\ellipsis.override \quoteleft.override \quotesingle.override 
+	\quoteright.override \quotedblleft.override \quotedbl.override 
+	\quotedblright.override \zero.lining \one.lining \two.lining \three.lining 
+	\four.lining \five.lining \six.lining \seven.lining \eight.lining 
+	\nine.lining \K_K \uni2011 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

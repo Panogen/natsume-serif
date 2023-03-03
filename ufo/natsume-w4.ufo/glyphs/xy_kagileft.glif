@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xy_kagileft" format="2">
+  <advance width="327"/>
+  <unicode hex="E093"/>
+  <outline>
+    <contour>
+      <point x="136.485" y="466.997" type="line"/>
+      <point x="251.235" y="466.997" type="line"/>
+      <point x="251.235" y="436.992" type="line"/>
+      <point x="173.027" y="436.992" type="line"/>
+      <point x="173.027" y="223.554" type="line"/>
+      <point x="136.485" y="223.554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>437</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>136</integer>
+            <key>width</key>
+            <integer>37</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

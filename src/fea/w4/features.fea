@@ -1,0 +1,7 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+include(features/discretionary.fea);
+include(features/punctuation.fea);
+include(features/contextuals.fea);
+include(features/spacing.fea);

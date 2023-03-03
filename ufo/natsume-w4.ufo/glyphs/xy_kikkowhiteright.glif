@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xy_kikkowhiteright" format="2">
+  <advance width="358"/>
+  <unicode hex="E09A"/>
+  <outline>
+    <contour>
+      <point x="110.064" y="464.438" type="line"/>
+      <point x="214.674" y="416.519" type="line"/>
+      <point x="214.674" y="176.081" type="line"/>
+      <point x="110.072" y="128.14" type="line"/>
+      <point x="85.3633" y="169.198" type="line"/>
+      <point x="164.486" y="207.104" type="line"/>
+      <point x="164.486" y="385.482" type="line"/>
+      <point x="85.3633" y="423.395" type="line"/>
+    </contour>
+    <contour>
+      <point x="115.461" y="446.987" type="line"/>
+      <point x="104.764" y="429.206" type="line"/>
+      <point x="178.114" y="394.061" type="line"/>
+      <point x="178.114" y="198.525" type="line"/>
+      <point x="104.764" y="163.387" type="line"/>
+      <point x="115.461" y="145.598" type="line"/>
+      <point x="201.053" y="184.831" type="line"/>
+      <point x="201.053" y="407.768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>164</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>201</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

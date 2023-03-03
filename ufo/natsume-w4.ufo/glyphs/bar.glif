@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="213"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="92.7734" y="388.589" type="line"/>
+      <point x="120.107" y="388.589" type="line"/>
+      <point x="120.107" y="-11.6689" type="line"/>
+      <point x="92.7734" y="-11.6689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>27</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
