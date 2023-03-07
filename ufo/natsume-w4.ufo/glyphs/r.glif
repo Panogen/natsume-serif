@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="340.102" y="51.7568" type="curve" smooth="yes"/>
-      <point x="428.682" y="51.7568"/>
-      <point x="477.259" y="120.341"/>
+      <point x="401.72" y="51.7568"/>
+      <point x="443.981" y="84.9443"/>
+      <point x="469.708" y="105.147" type="curve" smooth="yes"/>
+      <point x="480.965" y="113.987"/>
+      <point x="489.056" y="120.341"/>
       <point x="494.217" y="120.341" type="curve" smooth="yes"/>
       <point x="502.965" y="120.341"/>
       <point x="511.566" y="113.823"/>
@@ -14,8 +17,11 @@
       <point x="511.566" y="85.17"/>
       <point x="407.213" y="9.52253"/>
       <point x="406.05" y="8.69238" type="curve" smooth="yes"/>
-      <point x="391.755" y="-1.5127"/>
-      <point x="365.396" y="-22.3887"/>
+      <point x="405.527" y="8.31928"/>
+      <point x="404.988" y="7.93192"/>
+      <point x="404.432" y="7.53183" type="curve" smooth="yes"/>
+      <point x="389.769" y="-3.01126"/>
+      <point x="362.818" y="-22.3887"/>
       <point x="294.873" y="-22.3887" type="curve" smooth="yes"/>
       <point x="169.043" y="-22.3887"/>
       <point x="45.4043" y="73.4453"/>
@@ -56,12 +62,6 @@
             <integer>-22</integer>
             <key>width</key>
             <integer>74</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>403</integer>
-            <key>width</key>
-            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="381.348" y="483.08" type="line" smooth="yes"/>
-      <point x="459.263" y="483.08"/>
-      <point x="524.101" y="506.728"/>
+      <point x="434.431" y="483.08"/>
+      <point x="481.444" y="494.057"/>
+      <point x="511.411" y="501.053" type="curve" smooth="yes"/>
+      <point x="525.43" y="504.326"/>
+      <point x="535.718" y="506.728"/>
       <point x="541.152" y="506.728" type="curve" smooth="yes"/>
       <point x="550.41" y="506.728"/>
       <point x="557.72" y="499.925"/>
@@ -14,20 +17,29 @@
       <point x="557.72" y="483.935"/>
       <point x="553.642" y="475.788"/>
       <point x="543.252" y="468.185" type="curve" smooth="yes"/>
-      <point x="523.138" y="453.466"/>
-      <point x="492.524" y="439.777"/>
+      <point x="541.504" y="466.905"/>
+      <point x="539.676" y="465.634"/>
+      <point x="537.766" y="464.305" type="curve" smooth="yes"/>
+      <point x="517.7" y="450.344"/>
+      <point x="488.521" y="430.043"/>
       <point x="446.457" y="327.771" type="curve" smooth="yes"/>
       <point x="400.013" y="214.843"/>
       <point x="339.018" y="66.6855"/>
       <point x="324.993" y="36.3008" type="curve" smooth="yes"/>
-      <point x="315.507" y="15.7461"/>
-      <point x="298.993" y="-22.5586"/>
+      <point x="324.43" y="35.0815"/>
+      <point x="323.843" y="33.7998"/>
+      <point x="323.232" y="32.4674" type="curve" smooth="yes"/>
+      <point x="313.548" y="11.3366"/>
+      <point x="298.013" y="-22.5586"/>
       <point x="282.467" y="-22.5586" type="curve" smooth="yes"/>
       <point x="269.156" y="-22.5586"/>
       <point x="256.969" y="-10.3037"/>
       <point x="237.521" y="27.8701" type="curve" smooth="yes"/>
-      <point x="220.216" y="61.8398"/>
-      <point x="104.498" y="308.222"/>
+      <point x="227.025" y="48.4747"/>
+      <point x="180.321" y="147.228"/>
+      <point x="134.059" y="245.046" type="curve" smooth="yes"/>
+      <point x="104.052" y="308.496"/>
+      <point x="74.2301" y="371.553"/>
       <point x="54.5967" y="412.633" type="curve"/>
       <point x="24.1426" y="418.656"/>
       <point x="6.60352" y="431.979"/>
@@ -65,9 +77,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>487</integer>
+            <integer>468</integer>
             <key>width</key>
-            <integer>20</integer>
+            <integer>33</integer>
           </dict>
         </array>
       </dict>

@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="60.6348" y="-15.2021" type="line"/>
-      <point x="94.5049" y="-16.7012"/>
-      <point x="126.86" y="-18.1338"/>
+      <point x="60.6889" y="-15.2045"/>
+      <point x="60.7429" y="-15.2069"/>
+      <point x="60.797" y="-15.2093" type="curve" smooth="yes"/>
+      <point x="94.6082" y="-16.7057"/>
+      <point x="126.875" y="-18.1338"/>
       <point x="135.733" y="-18.1338" type="curve" smooth="yes"/>
       <point x="145.454" y="-18.1338"/>
       <point x="148.941" y="-15.291"/>
@@ -47,12 +50,6 @@
             <integer>235</integer>
             <key>width</key>
             <integer>18</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>258</integer>
-            <key>width</key>
-            <integer>10</integer>
           </dict>
         </array>
         <key>vhints</key>

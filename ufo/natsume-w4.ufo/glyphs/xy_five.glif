@@ -73,12 +73,6 @@
             <key>width</key>
             <integer>52</integer>
           </dict>
-          <dict>
-            <key>position</key>
-            <integer>260</integer>
-            <key>width</key>
-            <integer>42</integer>
-          </dict>
         </array>
         <key>vhints</key>
         <array>

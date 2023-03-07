@@ -38,8 +38,11 @@
       <point x="317.017" y="182.54"/>
       <point x="320.253" y="146.175"/>
       <point x="321.037" y="137.371" type="curve" smooth="yes"/>
-      <point x="321.145" y="136.159"/>
-      <point x="321.206" y="135.47"/>
+      <point x="321.041" y="137.322"/>
+      <point x="321.046" y="137.274"/>
+      <point x="321.05" y="137.226" type="curve" smooth="yes"/>
+      <point x="321.149" y="136.104"/>
+      <point x="321.206" y="135.465"/>
       <point x="321.206" y="135.362" type="curve" smooth="yes"/>
       <point x="321.206" y="116.938"/>
       <point x="313.827" y="92.2812"/>
@@ -56,8 +59,11 @@
       <point x="284.448" y="245.602"/>
       <point x="284.443" y="250.54"/>
       <point x="284.435" y="255.044" type="curve"/>
-      <point x="284.425" y="255.03"/>
-      <point x="284.318" y="254.881"/>
+      <point x="284.433" y="255.042"/>
+      <point x="284.43" y="255.037"/>
+      <point x="284.424" y="255.03" type="curve" smooth="yes"/>
+      <point x="284.393" y="254.985"/>
+      <point x="284.292" y="254.844"/>
       <point x="284.137" y="254.627" type="curve" smooth="yes"/>
       <point x="282.857" y="252.838"/>
       <point x="277.839" y="245.82"/>
@@ -72,8 +78,11 @@
       <point x="245.78" y="286.023"/>
       <point x="245.78" y="286.051"/>
       <point x="245.78" y="286.079" type="curve" smooth="yes"/>
-      <point x="245.78" y="286.106"/>
-      <point x="245.779" y="286.135"/>
+      <point x="245.78" y="286.093"/>
+      <point x="245.78" y="286.107"/>
+      <point x="245.78" y="286.121" type="curve" smooth="yes"/>
+      <point x="245.78" y="286.135"/>
+      <point x="245.779" y="286.148"/>
     </contour>
   </outline>
   <lib>
@@ -82,12 +91,6 @@
       <dict>
         <key>hhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>92</integer>
-            <key>width</key>
-            <integer>10</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>138</integer>

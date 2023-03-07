@@ -23,7 +23,16 @@
             <key>position</key>
             <integer>87</integer>
             <key>width</key>
-            <integer>10</integer>
+            <integer>224</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>112</integer>
+            <key>width</key>
+            <integer>181</integer>
           </dict>
         </array>
       </dict>

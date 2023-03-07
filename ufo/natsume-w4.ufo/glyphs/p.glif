@@ -26,8 +26,11 @@
       <point x="188.973" y="21.0244"/>
       <point x="91.7766" y="129.754"/>
       <point x="66.9678" y="328.124" type="curve" smooth="yes"/>
-      <point x="62.5889" y="363.134"/>
-      <point x="61.123" y="405.763"/>
+      <point x="63.6761" y="354.441"/>
+      <point x="62.0305" y="385.064"/>
+      <point x="60.714" y="409.563" type="curve" smooth="yes"/>
+      <point x="60.2792" y="417.655"/>
+      <point x="59.8802" y="425.079"/>
       <point x="59.4697" y="431.459" type="curve"/>
       <point x="30.4629" y="451.137"/>
       <point x="18.4795" y="462.079"/>
@@ -71,18 +74,6 @@
             <integer>-188</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>500</integer>
-            <key>width</key>
-            <integer>16</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>500</integer>
-            <key>width</key>
-            <integer>16</integer>
           </dict>
         </array>
         <key>vhints</key>

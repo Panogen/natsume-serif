@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="473.256" y="287.855" type="curve" smooth="yes"/>
-      <point x="465.55" y="287.855"/>
-      <point x="443.743" y="303.687"/>
+      <point x="470.861" y="287.855"/>
+      <point x="467.103" y="289.384"/>
+      <point x="461.924" y="291.492" type="curve" smooth="yes"/>
+      <point x="450.44" y="296.167"/>
+      <point x="431.966" y="303.687"/>
       <point x="405.854" y="303.687" type="curve" smooth="yes"/>
       <point x="351.626" y="303.687"/>
       <point x="246.389" y="227.875"/>
@@ -47,21 +50,15 @@
         <array>
           <dict>
             <key>position</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>304</integer>
             <key>width</key>
             <integer>30</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>511</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>511</integer>
-            <key>width</key>
-            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>

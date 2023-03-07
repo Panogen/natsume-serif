@@ -59,21 +59,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>94</integer>
-            <key>width</key>
-            <integer>10</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>268</integer>
             <key>width</key>
             <integer>49</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>268</integer>
-            <key>width</key>
-            <integer>23</integer>
           </dict>
           <dict>
             <key>position</key>

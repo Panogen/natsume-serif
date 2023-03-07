@@ -52,6 +52,12 @@
         <array>
           <dict>
             <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>17</integer>
             <key>width</key>
             <integer>10</integer>
@@ -61,12 +67,6 @@
             <integer>277</integer>
             <key>width</key>
             <integer>18</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>300</integer>
-            <key>width</key>
-            <integer>10</integer>
           </dict>
           <dict>
             <key>position</key>
