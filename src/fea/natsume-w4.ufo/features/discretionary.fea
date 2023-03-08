@@ -5,6 +5,14 @@ feature unic {
 } unic;
 
 
+feature onum {
+	# This is the default
+	lookup onum {
+		sub placeholder by placeholder;
+	} onum;
+} onum;
+
+
 feature lnum {
 	lookup lnum {
 		sub [
@@ -18,6 +26,38 @@ feature lnum {
 		];
 	} lnum;
 } lnum;
+
+
+feature pnum {
+	# This is the default
+	lookup pnum {
+		sub placeholder by placeholder;
+	} pnum;
+} pnum;
+
+
+feature tnum {
+	lookup tnum {
+		sub [
+			zero one two three four
+			five six seven eight nine
+		] by [
+			zero.tabular one.tabular two.tabular
+			three.tabular four.tabular five.tabular
+			six.tabular seven.tabular eight.tabular
+			nine.tabular
+		];
+		sub [
+			zero.lining one.lining two.lining three.lining
+			four.lining five.lining six.lining seven.lining
+			eight.lining nine.lining
+		] by [
+			zero.tlining one.tlining two.tlining three.tlining
+			four.tlining five.tlining six.tlining seven.tlining
+			eight.tlining nine.tlining
+		];
+	} tnum;
+} tnum;
 
 
 feature ss01 {
@@ -56,30 +96,21 @@ feature ss06 {
 	featureNames {
 		name "Force traditional Xymyric figures";
 	};
-	
+	# Declared individually so that fontmake
+	# retains the substitutions in numerical order.
 	lookup ss06 {
-		sub [
-			zero one two three four
-			five six seven eight nine
-		] by [
-			xy_zero xy_one xy_two xy_three xy_four
-			xy_five xy_six xy_seven xy_eight xy_nine
-		];
+		sub zero by xy_zero;
+		sub one by xy_one;
+		sub two by xy_two;
+		sub three by xy_three;
+		sub four by xy_four;
+		sub five by xy_five;
+		sub six by xy_six;
+		sub seven by xy_seven;
+		sub eight by xy_eight;
+		sub nine by xy_nine;
 	} ss06;
 } ss06;
-
-
-feature ss07 {
-	featureNames {
-		name "Enable ligature of double isolate K";
-	};
-	
-	lookup create_ligature {
-		sub K k by K_K;
-		sub K K by K_K;
-		sub k K by K_K;
-	} create_ligature;
-} ss07;
 
 
 feature cv01 {

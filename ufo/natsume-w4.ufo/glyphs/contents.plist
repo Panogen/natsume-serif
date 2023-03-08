@@ -334,10 +334,6 @@
     <string>z.fina.glif</string>
     <key>xy_kashida</key>
     <string>xy_kashida.glif</string>
-    <key>x.long</key>
-    <string>x.long.glif</string>
-    <key>z.long</key>
-    <string>z.long.glif</string>
     <key>xy_fullstop</key>
     <string>xy_fullstop.glif</string>
     <key>xy_comma</key>
@@ -444,6 +440,28 @@
     <string>quotedbl.override.glif</string>
     <key>quotedblright.override</key>
     <string>quotedblright.override.glif</string>
+    <key>uni2011</key>
+    <string>uni2011.glif</string>
+    <key>zero.tabular</key>
+    <string>zero.tabular.glif</string>
+    <key>one.tabular</key>
+    <string>one.tabular.glif</string>
+    <key>two.tabular</key>
+    <string>two.tabular.glif</string>
+    <key>three.tabular</key>
+    <string>three.tabular.glif</string>
+    <key>four.tabular</key>
+    <string>four.tabular.glif</string>
+    <key>five.tabular</key>
+    <string>five.tabular.glif</string>
+    <key>six.tabular</key>
+    <string>six.tabular.glif</string>
+    <key>seven.tabular</key>
+    <string>seven.tabular.glif</string>
+    <key>eight.tabular</key>
+    <string>eight.tabular.glif</string>
+    <key>nine.tabular</key>
+    <string>nine.tabular.glif</string>
     <key>zero.lining</key>
     <string>zero.lining.glif</string>
     <key>one.lining</key>
@@ -464,9 +482,25 @@
     <string>eight.lining.glif</string>
     <key>nine.lining</key>
     <string>nine.lining.glif</string>
-    <key>K_K</key>
-    <string>K__K_.glif</string>
-    <key>uni2011</key>
-    <string>uni2011.glif</string>
+    <key>zero.tlining</key>
+    <string>zero.tlining.glif</string>
+    <key>one.tlining</key>
+    <string>one.tlining.glif</string>
+    <key>two.tlining</key>
+    <string>two.tlining.glif</string>
+    <key>three.tlining</key>
+    <string>three.tlining.glif</string>
+    <key>four.tlining</key>
+    <string>four.tlining.glif</string>
+    <key>five.tlining</key>
+    <string>five.tlining.glif</string>
+    <key>six.tlining</key>
+    <string>six.tlining.glif</string>
+    <key>seven.tlining</key>
+    <string>seven.tlining.glif</string>
+    <key>eight.tlining</key>
+    <string>eight.tlining.glif</string>
+    <key>nine.tlining</key>
+    <string>nine.tlining.glif</string>
   </dict>
 </plist>
