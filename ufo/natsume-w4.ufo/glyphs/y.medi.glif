@@ -6,15 +6,15 @@
     <contour>
       <point x="180.793" y="662.956" type="curve" smooth="yes"/>
       <point x="180.793" y="626.558"/>
-      <point x="151.242" y="597.007"/>
-      <point x="114.845" y="597.007" type="curve" smooth="yes"/>
-      <point x="78.4473" y="597.008"/>
+      <point x="151" y="597"/>
+      <point x="115" y="597" type="curve" smooth="yes"/>
+      <point x="79" y="597"/>
       <point x="48.8965" y="626.559"/>
       <point x="48.8965" y="662.956" type="curve" smooth="yes"/>
       <point x="48.8975" y="699.354"/>
-      <point x="78.4473" y="728.903"/>
-      <point x="114.845" y="728.903" type="curve" smooth="yes"/>
-      <point x="151.242" y="728.903"/>
+      <point x="79" y="729"/>
+      <point x="115" y="729" type="curve" smooth="yes"/>
+      <point x="151" y="729"/>
       <point x="180.793" y="699.354"/>
     </contour>
     <contour>
@@ -53,47 +53,4 @@
       <point x="63.3643" y="-9.80469"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-15</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>440</integer>
-            <key>width</key>
-            <integer>43</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>597</integer>
-            <key>width</key>
-            <integer>132</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>49</integer>
-            <key>width</key>
-            <integer>132</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>63</integer>
-            <key>width</key>
-            <integer>107</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -75,35 +75,4 @@
       <point x="8.65918" y="647.066"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-16</integer>
-            <key>width</key>
-            <integer>379</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>440</integer>
-            <key>width</key>
-            <integer>43</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>70</integer>
-            <key>width</key>
-            <integer>98</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
