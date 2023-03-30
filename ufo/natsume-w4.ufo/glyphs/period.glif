@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-  <advance width="178"/>
+  <advance width="246"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="120" y="40.75" type="curve" smooth="yes"/>
-      <point x="120" y="24.25"/>
-      <point x="106.5" y="10.75"/>
-      <point x="90" y="10.75" type="curve" smooth="yes"/>
-      <point x="73.5" y="10.75"/>
-      <point x="60" y="24.25"/>
-      <point x="60" y="40.75" type="curve" smooth="yes"/>
-      <point x="60" y="57.25"/>
-      <point x="73.5" y="70.25"/>
-      <point x="90" y="70.25" type="curve" smooth="yes"/>
-      <point x="106.5" y="70.25"/>
-      <point x="120" y="57.25"/>
+      <point x="53.6689" y="68.168" type="curve" smooth="yes"/>
+      <point x="53.6689" y="106.598"/>
+      <point x="84.8213" y="137.75"/>
+      <point x="123.25" y="137.75" type="curve" smooth="yes"/>
+      <point x="161.679" y="137.75"/>
+      <point x="192.832" y="106.598"/>
+      <point x="192.832" y="68.168" type="curve" smooth="yes"/>
+      <point x="192.832" y="29.7393"/>
+      <point x="161.679" y="-1.41309"/>
+      <point x="123.25" y="-1.41309" type="curve" smooth="yes"/>
+      <point x="84.8213" y="-1.41309"/>
+      <point x="53.6689" y="29.7393"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>139</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>54</integer>
+            <key>width</key>
+            <integer>139</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
